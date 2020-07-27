@@ -19,6 +19,11 @@
 ## Sisteme Girişi Sayfası / login.php
 ![image](https://user-images.githubusercontent.com/65366156/88530839-a41f8180-d00a-11ea-8e97-617fb67c8be7.png)
 
+## AnaSayfa / index.php
+Sisteme Kayıtlı Tüm Öğrenci/Personel, Okul/İşyeri, Şoför ve Araç Sayılarını Görüntüleyebilirsiniz.
+Tüm Güzergâhları Görüntüleyip / Silebilirsiniz.
+![image](https://user-images.githubusercontent.com/65366156/88531002-dcbf5b00-d00a-11ea-8100-ab6d7f0adc92.png)
+
 
 
  
