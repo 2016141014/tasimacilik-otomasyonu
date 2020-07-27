@@ -1,6 +1,6 @@
 # tasimacilik-otomasyonu
 ÖĞRENCİ VE PERSONEL TAŞIMACILIK OTOMASYONU
-Bu uygulama kapsamında;
+## Bu uygulama kapsamında;
 * Öğrenci ve Personel ’in adresi, okulu(iş yeri) ve kişisel bilgilerin kaydı tutulacak.
 * Personel ve öğrencilerin ilgili araçlara listesine eklenecek.
 * Araç listesine eklenen personel ve öğrencilerin koordinatları belirlenecek.
